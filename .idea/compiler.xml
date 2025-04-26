@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="LongRunningTest" />
+        <module name="BeforeNAfter" />
+        <module name="CalculatorTest" />
+        <module name="FileHandling" />
+        <module name="DateFormatter" />
+        <module name="ExceptionHandling" />
+        <module name="Even" />
+        <module name="UserRegistration" />
+        <module name="StringTest" />
+        <module name="TempConvertor" />
+        <module name="ListOperations" />
+        <module name="Password" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BackAccountTest" target="23" />
+      <module name="Junit" target="23" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
